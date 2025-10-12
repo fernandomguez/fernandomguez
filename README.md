@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">A passionate marketer with 10+ years of experience, now transitioning into the world of programming.</h3>
 
-- 🔭 I’m currently working on **personal projects to improve my frontend development skills**
+- 🔭 I’m currently working on **personal projects to improve my development skills**
 
 - 🌱 I’m currently learning **Java, HTML, CSS, Java Script and SQL — with a focus on frontend but open to backend and AI in the future**
 
