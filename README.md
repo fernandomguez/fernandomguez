@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal projects to improve my development and automation skills**
 
-- 🌱 I’m currently learning **Java, HTML, CSS, Git, Java Script and SQL — with a focus on frontend but open to backend, automation and AI.**
+- 🌱 I’m currently learning **Java, HTML, CSS, Git, JavaScript and SQL — with a focus on frontend but open to backend, automation and AI.**
 
 - 🤝 I’m looking for help with **best practices in web development and integrating AI into real-world applications**
 
