@@ -3,68 +3,55 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-10+%20Years%20in%20Marketing-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Automation%20%7C%20Testing-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Automation%20%7C%20AI-orange?style=flat-square">
 </p>
 
 ---
 
 ### ⚡ About Me
-I am a seasoned marketing professional transitioning into Software Development. My goal is to combine a decade of communication and strategy experience with the power of automation and full-stack development.
+I am a seasoned marketing professional transitioning into Software Development. My goal is to bridge the gap between strategic communication and technical execution through clean code and automation.
 
-- 🔭 **Current Focus:** Java development, unit testing (Mockito/JUnit) and Desktop Apps.
-- 🌱 **Learning Path:** Advanced **Java**, Spring Boot, and AI integration for real-world apps.
-- 🤝 **Collaboration:** Open to projects involving Web Dev best practices and AI-driven automation.
-- 💬 **Ask me about:** Why a marketer decided to learn SQL, or how to build a brand strategy.
+- 🔭 **Current Focus:** Java development, Unit Testing, and Desktop Applications.
+- 🌱 **Learning Path:** Advanced Java (Spring Boot), Software Architecture, and AI-driven development.
+- 🤝 **Collaboration:** Looking to contribute to projects focused on web best practices and AI integration.
+- 💬 **Ask me about:** Shifting from Marketing to Tech, Brand Strategy, or my journey in DAW.
 
 ---
 
-### 🛠️ Languages & Tools
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-      <br>CSS3
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ" />
-      <br>IntelliJ
-    </td>
-    <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="Mockito" />
-      <br>Mockito
-    </td>
-     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="JavaFX" />
-      <br>JavaFX
-    </td>
-    <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
-      <br>Figma/SB
-    </td>
-  </tr>
-</table>
+### 💻 Tech Stack
+
+#### 🌐 Languages & Core Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
+</p>
+
+#### ⚙️ Development, Testing & Databases
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Mockito-000000?style=flat&logo=target&logoColor=white" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-JavaFX-blue?style=flat&logo=java&logoColor=white" height="40"/>&nbsp;
+</p>
+
+#### 🛠️ IDEs & Environments
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" alt="netbeans" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Antigravity-6236FF?style=flat&logo=spacex&logoColor=white" height="40"/>&nbsp;
+</p>
+
+#### 🤖 IA & Productivity (Prompt Engineering)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Gemini-blue?style=flat&logo=googlegemini&logoColor=white" height="35"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Claude%20AI-D97757?style=flat&logo=anthropic&logoColor=white" height="35"/>&nbsp;
+  <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white" height="35"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="35" height="35"/>&nbsp;
+</p>
 
 ---
 
