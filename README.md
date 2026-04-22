@@ -9,7 +9,7 @@
 ---
 
 ### ⚡ About Me
-Marketing Strategist (10+ years) turned Software Developer. My goal is to bridge the gap between strategic communication and technical execution through clean code and automation. Currently a 1st-year DAM student exploring the infinite possibilities of technology.
+Marketing Strategist (10+ years) turned Software Developer. My goal is to bridge the gap between strategic communication and technical execution through clean code and automation. Currently a 1st-year Multi-platform Application Development (DAM) student exploring the infinite possibilities of technology.
 
 - 🔭 **Current Focus:** Java and JavaScript development, Unit Testing, Computing Systems, Server Management, and Database Administration with MySQL.
 - 🌱 **Learning Path:** Currently deepening my knowledge in **Object-Oriented Programming (OOP) and SQL**. Moving towards **Web Development (DAW)** next year to master Full-Stack environments.
