@@ -20,38 +20,12 @@ I am a seasoned marketing professional transitioning into Software Development. 
 
 ### 💻 Tech Stack
 
-#### 🌐 Languages & Core Technologies
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
-</p>
-
-#### ⚙️ Development, Testing & Databases
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Mockito-000000?style=flat&logo=target&logoColor=white" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-JavaFX-blue?style=flat&logo=java&logoColor=white" height="40"/>&nbsp;
-</p>
-
-#### 🛠️ IDEs & Environments
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" alt="netbeans" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Antigravity-6236FF?style=flat&logo=spacex&logoColor=white" height="40"/>&nbsp;
-</p>
-
-#### 🤖 IA & Productivity (Prompt Engineering)
-<p align="left">
-  <img src="https://img.shields.io/badge/-Gemini-blue?style=flat&logo=googlegemini&logoColor=white" height="35"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Claude%20AI-D97757?style=flat&logo=anthropic&logoColor=white" height="35"/>&nbsp;
-  <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white" height="35"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="35" height="35"/>&nbsp;
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages & Core** | <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="35"/></p> |
+| **Dev, Testing & DB** | <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35"/> <img src="https://img.shields.io/badge/-Mockito-000000?style=flat&logo=target&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/-JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/-JavaFX-blue?style=flat&logo=java&logoColor=white" height="28"/></p> |
+| **IDEs & Environments** | <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" alt="netbeans" width="35"/> <img src="https://img.shields.io/badge/-Antigravity-6236FF?style=flat&logo=spacex&logoColor=white" height="28"/></p> |
+| **AI & Productivity** | <p align="left"><img src="https://img.shields.io/badge/-Gemini-blue?style=flat&logo=googlegemini&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/-Claude%20AI-D97757?style=flat&logo=anthropic&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white" height="28"/> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="28"/></p> |
 
 ---
 
