@@ -13,8 +13,11 @@
 Marketing Strategist (9+ years) turning into Software Developer. My goal is to redirect my career to act as the strategic bridge that translates strategic communication and complex business requirements into clear technical execution. Currently studying Web Application Development (DAW) to build a solid technical foundation.
 
 🔭 **Current Focus:** Object-Oriented Programming with Java, Web Development with JavaScript, database administration (SQL/NoSQL), and API integrations.
+
 🌱 **Learning Path:** Mastering JavaScript, Java, and database architecture while exploring the Modern Data Stack.
+
 🤝 **Collaboration:** Open to connecting with tech teams that value a hybrid profile (Business Management + Tech Reskilling) for curricular internships starting in **February/March 2027**.
+
 💬 **Ask me about:** Translating business needs to dev teams, CRM integrations (Odoo, HubSpot), or my transition from marketing to tech.
 
 ---
