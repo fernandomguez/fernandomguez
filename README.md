@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center"><b>Marketing Strategist 📈 & Future Full-Stack Developer 💻</b></h3>
+<h3 align="center"><b>Marketing Strategist 📈 turning into Software Developer 💻</b></h3>
+<h4 align="center">Future Technical Business Analyst | Project Manager | Product Owner</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-10+%20Years%20in%20Marketing-blue?style=flat-square">
@@ -9,12 +10,12 @@
 ---
 
 ### ⚡ About Me
-Marketing Strategist (10+ years) turned Software Developer. My goal is to bridge the gap between strategic communication and technical execution through clean code and automation. Currently a 1st-year Multi-platform Application Development (DAM) student exploring the infinite possibilities of technology.
+Marketing Strategist (9+ years) turning into Software Developer. My goal is to redirect my career to act as the strategic bridge that translates strategic communication and complex business requirements into clear technical execution. Currently studying Web Application Development (DAW) to build a solid technical foundation.
 
-- 🔭 **Current Focus:** Java and JavaScript development, Unit Testing, Computing Systems, Server Management, and Database Administration with MySQL.
-- 🌱 **Learning Path:** Currently deepening my knowledge in **Object-Oriented Programming (OOP) and SQL**. Moving towards **Web Development (DAW)** next year to master Full-Stack environments.
-- 🤝 **Collaboration:** Dedicated to my full-time studies in DAM to build a rock-solid technical foundation. I will be looking for open-source contributions once I advance further in my journey-
-- 💬 **Ask me about:** Shifting from Marketing to Tech, Brand Strategy, or my journey in DAM/DAW.
+🔭 **Current Focus:** Object-Oriented Programming with Java, Web Development with JavaScript, database administration (SQL/NoSQL), and API integrations.
+🌱 **Learning Path:** Mastering JavaScript, Java, and database architecture while exploring the Modern Data Stack.
+🤝 **Collaboration:** Open to connecting with tech teams that value a hybrid profile (Business Management + Tech Reskilling) for curricular internships starting in **February/March 2027**.
+💬 **Ask me about:** Translating business needs to dev teams, CRM integrations (Odoo, HubSpot), or my transition from marketing to tech.
 
 ---
 
