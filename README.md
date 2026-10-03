@@ -1,45 +1,60 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center"><b>Marketing Strategist 📈 turning into Software Developer 💻</b></h3>
-<h4 align="center">Future Technical Business Analyst | Project Manager | Product Owner</h4>
+<h3 align="center">Full Stack Developer with a background in marketing and business</h3>
+<p align="center">Java · Spring Boot · Angular &nbsp;|&nbsp; Founder of <a href="https://numiklabs.github.io/">Numik Labs</a></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-10+%20Years%20in%20Marketing-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Automation%20%7C%20AI-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Experience-9%20years%20in%20marketing%20%26%20business-0a243c?style=flat-square">
+  <img src="https://img.shields.io/badge/Studying-DAM%20%2F%20DAW-0091ad?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20Feb%2FMar%202027-00d4f3?style=flat-square">
 </p>
 
 ---
 
-### ⚡ About Me
-Marketing Strategist (9+ years) turning into Software Developer. My goal is to redirect my career to act as the strategic bridge that translates strategic communication and complex business requirements into clear technical execution. Currently studying Web Application Development (DAW) to build a solid technical foundation.
+### ⚡ About me
+Junior Full Stack Developer currently studying Multiplatform and Web Application Development (DAM/DAW), focused on scalable applications, unit testing and clean architecture.
 
-🔭 **Current Focus:** Object-Oriented Programming with Java, Web Development with JavaScript, database administration (SQL/NoSQL), and API integrations.
+Before code, I spent 9 years in marketing and operations: managing high-profile accounts (Disney+, Amazon Prime Video), leading marketing at Binoovo and ValgrAI, and implementing CRMs and automations (Odoo, HubSpot, Zoho). That background is what I bring to a dev team: I understand what the business needs and can turn it into something the team can build.
 
-🌱 **Learning Path:** Mastering JavaScript, Java, and database architecture while exploring the Modern Data Stack.
+🎯 **Looking for:** a curricular internship starting **February/March 2027**, in a team where I can write quality code and bring product vision from the start.
 
-🤝 **Collaboration:** Open to connecting with tech teams that value a hybrid profile (Business Management + Tech Reskilling) for curricular internships starting in **February/March 2027**.
-
-💬 **Ask me about:** Translating business needs to dev teams, CRM integrations (Odoo, HubSpot), or my transition from marketing to tech.
+💬 **Ask me about:** Java and Spring Boot, building and shipping an Android app on my own, CRM integrations, or moving from marketing to tech.
 
 ---
 
-### 💻 Tech Stack
+### 🚀 Featured project
 
-| Category | Tools & Technologies |
+<table>
+  <tr>
+    <td width="96" align="center">
+      <img src="https://numiklabs.github.io/img/trazen-icono.png" width="72" alt="Trazen icon">
+    </td>
+    <td>
+      <b>Trazen: Connect the numbers</b> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.trazen.app">Google Play</a> &nbsp;·&nbsp; <a href="https://numiklabs.github.io/trazen/">Website</a><br>
+      Logic puzzle game for Android, built solo from scratch with HTML/CSS/JS and packaged with Capacitor.
+      100 levels, a daily challenge, offline play and Spanish/English. End-to-end work across development,
+      UX/UI, product, branding and publishing. It's the first release of <b>Numik Labs</b>, the independent studio I founded.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Tech stack
+
+| Category | Tools & technologies |
 | :--- | :--- |
-| **Languages & Marks** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="22"/> **Java** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="22"/> **JavaScript** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="22"/> **HTML5** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="22"/> **CSS3** &nbsp;&nbsp; <img src="https://img.shields.io/badge/-XML-E31B23?style=flat&logo=xml&logoColor=white" height="20"/> || 
-**Dev, Testing & DB** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="22"/> **Git** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="22"/> **MySQL** &nbsp;&nbsp; <img src="https://img.shields.io/badge/-Mockito-000000?style=flat&logo=target&logoColor=white" height="20"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="20"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-JavaFX-blue?style=flat&logo=java&logoColor=white" height="20"/> |
-| **IDEs & Environments**| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="22"/> **IntelliJ** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22"/> **VS Code** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="22"/> **NetBeans** &nbsp;&nbsp; <img src="https://img.shields.io/badge/-Antigravity-6236FF?style=flat&logo=spacex&logoColor=white" height="20"/> |
-| **AI & Automation** | <img src="https://img.shields.io/badge/-Gemini-blue?style=flat&logo=googlegemini&logoColor=white" height="20"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white" height="20"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white" height="20"/> &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="22"/> **Zapier** |
+| **Backend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="22"/> **Java** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="22"/> **Spring Boot** &nbsp;&nbsp; REST APIs · Clean & Hexagonal Architecture |
+| **Frontend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="22"/> **Angular** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="22"/> **TypeScript** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="22"/> **JavaScript** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="22"/> **HTML5** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="22"/> **CSS3** |
+| **Databases** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="22"/> **MySQL** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="22"/> **MongoDB** |
+| **Quality & DevOps** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="22"/> **Git** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="22"/> **GitHub** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="22"/> **Docker** &nbsp;&nbsp; <img src="https://img.shields.io/badge/-JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="20"/> &nbsp; <img src="https://img.shields.io/badge/-Mockito-000000?style=flat" height="20"/> |
+| **Mobile** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="22"/> **Android** &nbsp;&nbsp; <img src="https://img.shields.io/badge/-Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" height="20"/> |
+| **AI** | Spec-Driven Development · AI agents &nbsp;&nbsp; <img src="https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white" height="20"/> &nbsp; <img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white" height="20"/> &nbsp; <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white" height="20"/> |
+| **Business** | Scrum · Kanban · Google Analytics 4 · Odoo · HubSpot · CRO |
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fernandomguez&show_icons=true&theme=radical&rank_icon=github" alt="Fernando's Stats" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/fernandomguez">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+  <a href="https://linkedin.com/in/fernandomguez"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:fernandomguez@gmail.com"><img src="https://img.shields.io/badge/Email-0a243c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://numiklabs.github.io/"><img src="https://img.shields.io/badge/Numik%20Labs-00d4f3?style=for-the-badge&logoColor=0a243c" alt="Numik Labs"></a>
 </p>
