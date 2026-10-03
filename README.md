@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">Full Stack Developer with a background in marketing and business</h3>
-<p align="center">Java · Spring Boot · Angular &nbsp;|&nbsp; Founder of <a href="https://numiklabs.github.io/">Numik Labs</a></p>
+<p align="center">Founder of <a href="https://numiklabs.github.io/">Numik Labs</a></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-9%20years%20in%20marketing%20%26%20business-0a243c?style=flat-square">
@@ -17,7 +17,7 @@ Before code, I spent 9 years in marketing and operations: managing high-profile 
 
 🎯 **Looking for:** a curricular internship starting **February/March 2027**, in a team where I can write quality code and bring product vision from the start.
 
-💬 **Ask me about:** Java and Spring Boot, building and shipping an Android app on my own, CRM integrations, or moving from marketing to tech.
+💬 **Ask me about:** moving from marketing to tech, my experience building and launching my own app, or how to turn business needs into products that actually work.
 
 ---
 
