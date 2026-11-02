@@ -30,7 +30,7 @@ Before code, I spent 9 years in marketing and operations: managing high-profile 
 <table>
   <tr>
     <td width="96" align="center">
-      <img src="https://numiklabs.github.io/img/numik.svg" width="72" alt="Numik Labs logo">
+      <img src="https://numiklabs.github.io/img/numik-labs-mark-light.svg" width="72" alt="Numik Labs logo">
     </td>
     <td>
       <b>Numik Labs</b> &nbsp;·&nbsp; Founder &nbsp;·&nbsp; <a href="https://numiklabs.github.io/">Website</a><br>
