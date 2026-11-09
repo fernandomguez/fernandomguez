@@ -11,7 +11,7 @@
 ---
 
 ### ⚡ About me
-Junior Full Stack Developer, currently studying Web Application Development (DAW), focused on scalable applications with **Angular and Spring Boot**, clean architecture and testing.
+Junior Full Stack Developer, currently studying Web Application Development (DAW), focused on scalable applications with **Angular and Java with Spring Boot**, clean architecture and testing.
 
 I use AI as an engineering tool: I write the spec, verify the output and stay in control of the code that agents generate.
 
@@ -22,6 +22,8 @@ Before code, I spent 9 years in marketing and operations: managing high-profile 
 🎯 **Looking for:** a curricular internship (500 hours) starting **March 2027**, in a team where I can write quality code and bring product vision from the start.
 
 💬 **Ask me about:** moving from marketing to tech, building and launching my own app, or working with AI agents without losing control of the code.
+
+🌐 **Check my portfolio:** [fernandomguez.com](https://fernandomguez.com)
 
 ---
 
